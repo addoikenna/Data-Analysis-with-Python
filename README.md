@@ -4,7 +4,7 @@ This project uses Python to clean two different datasets and concatenate them to
 Getting Started
 Clone the repository to your local machine.
 Install the required Python packages.
-Open the Jupyter Notebook data_analysis.ipynb
+Open the Jupyter Notebook brasil_notebook.ipynb
 
 Data Cleaning
 The first step is to clean the two datasets. This involves removing any rows or columns with missing values and correcting any errors in the data.
